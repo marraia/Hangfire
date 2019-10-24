@@ -1,0 +1,9 @@
+C:\_estudos\Hangfire\Hangfire.Domain\bin\Debug\netcoreapp2.2\Hangfire.Domain.deps.json
+C:\_estudos\Hangfire\Hangfire.Domain\bin\Debug\netcoreapp2.2\Hangfire.Domain.dll
+C:\_estudos\Hangfire\Hangfire.Domain\bin\Debug\netcoreapp2.2\Hangfire.Domain.pdb
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.csprojAssemblyReference.cache
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.csproj.CoreCompileInputs.cache
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.AssemblyInfoInputs.cache
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.AssemblyInfo.cs
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.dll
+C:\_estudos\Hangfire\Hangfire.Domain\obj\Debug\netcoreapp2.2\Hangfire.Domain.pdb

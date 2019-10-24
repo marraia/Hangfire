@@ -1,0 +1,17 @@
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.csproj.CoreCompileInputs.cache
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.AssemblyInfoInputs.cache
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.AssemblyInfo.cs
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.API.deps.json
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.API.runtimeconfig.json
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.API.runtimeconfig.dev.json
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.API.dll
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.csprojAssemblyReference.cache
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.RazorAssemblyInfo.cache
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.RazorAssemblyInfo.cs
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.RazorTargetAssemblyInfo.cache
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.API.pdb
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.dll
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.pdb
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.Domain.dll
+C:\_estudos\Hangfire\Hangfire.API\bin\Debug\netcoreapp2.2\Hangfire.Domain.pdb
+C:\_estudos\Hangfire\Hangfire.API\obj\Debug\netcoreapp2.2\Hangfire.API.csproj.CopyComplete
